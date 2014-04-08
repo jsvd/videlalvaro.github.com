@@ -41,7 +41,7 @@ input of size _n_, and one unit of time equals one millisecond.
 Then they present the maximum problem size for each algorithm. For
 example **A1** would be able to process a problem size of 1000 in one
 second, or 3.6 x 10^6 in one hour. Compare that with **A5**, which can
-process 9 elements per second, or a maximum of 21 in one hour.
+process approximately 10 elements per second, or a maximum of 750 in one hour.
 
 
 So then we get a computer than is 10 time faster of what he have right
